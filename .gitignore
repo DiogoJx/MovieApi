@@ -1,0 +1,36 @@
+# Build Folders (You should clean this up before deploying)
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.sln.docstates
+
+# Logs
+*.log
+*.tlog
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Entity Framework Migrations
+Migrations/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# Other
+*.cache
